@@ -36,9 +36,9 @@ profiles:
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/yukimura_17/profilecard/?igsh=MXBhanFpbmMyZ2p2bQ==
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/wahyudwypermana
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
@@ -142,11 +142,11 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Indonesia
     percent: 100
-  - name: Chinese
+  - name: Malay
     percent: 75
-  - name: Portuguese
+  - name: Japanese
     percent: 25
 
 # Awards.
