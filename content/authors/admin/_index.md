@@ -24,7 +24,7 @@ role: Mahasiswa
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: DiCoding
+  - name: Dicoding
     url: https://www.dicoding.com/
 
 # Social network links
@@ -146,7 +146,7 @@ languages:
     percent: 100
   - name: Malay
     percent: 75
-  - name: Japanese
+  - name: Japanes
     percent: 25
 
 # Awards.
