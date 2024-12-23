@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: wahyudwypermana5@gmail.com
+    url: www.wahyudwypermana5@gmail.com
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -146,7 +146,7 @@ languages:
     percent: 100
   - name: Malay
     percent: 75
-  - name: Japanes
+  - name: Japanese
     percent: 25
 
 # Awards.
@@ -183,4 +183,20 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Tentang Saya
+
+Halo! Selamat datang di blog pribadi saya! 👋
+
+Nama saya [Wahyu Dwy Permana], dan saya adalah seorang [Mahasiswa]. Blog ini adalah tempat saya berbagi cerita, pengalaman, dan inspirasi tentang [teknologi, dan yang lain nya].
+
+Saya lahir dan besar di [Kendal], dan saat ini menetap di [kendal]. Sejak kecil, saya selalu tertarik dengan [teknologi]. Kecintaan ini akhirnya membawa saya untuk menciptakan blog ini sebagai wadah menyalurkan ide dan kreativitas.
+
+Mengapa Blog Ini Ada?  
+Blog ini lahir dari keinginan saya untuk:
+
+Saya percaya bahwa setiap orang punya cerita yang layak untuk dibagikan, dan melalui blog ini, saya berharap bisa menginspirasi dan mendapatkan inspirasi dari para pembaca.
+
+Terhubung dengan Saya  
+Jika Anda ingin berdiskusi atau sekadar menyapa, jangan ragu untuk menghubungi saya melalui [wahyudwypermana5@gmail.com]
+
+Terima kasih sudah mampir ke blog saya. Semoga Anda menemukan sesuatu yang bermanfaat dan menginspirasi di sini. 😊
