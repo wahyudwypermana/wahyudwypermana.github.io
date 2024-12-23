@@ -183,10 +183,7 @@ awards:
 
 ## About Me
 
-Tentang Saya
-
 Halo! Selamat datang di blog pribadi saya! 👋
-
 Nama saya [Wahyu Dwy Permana], dan saya adalah seorang [Mahasiswa]. Blog ini adalah tempat saya berbagi cerita, pengalaman, dan inspirasi tentang [teknologi, dan yang lain nya].
 
 Saya lahir dan besar di [Kendal], dan saat ini menetap di [kendal]. Sejak kecil, saya selalu tertarik dengan [teknologi]. Kecintaan ini akhirnya membawa saya untuk menciptakan blog ini sebagai wadah menyalurkan ide dan kreativitas.
