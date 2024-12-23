@@ -188,9 +188,6 @@ Nama saya [Wahyu Dwy Permana], dan saya adalah seorang [Mahasiswa]. Blog ini ada
 
 Saya lahir dan besar di [Kendal], dan saat ini menetap di [kendal]. Sejak kecil, saya selalu tertarik dengan [teknologi]. Kecintaan ini akhirnya membawa saya untuk menciptakan blog ini sebagai wadah menyalurkan ide dan kreativitas.
 
-Mengapa Blog Ini Ada?  
-Blog ini lahir dari keinginan saya untuk:
-
 Saya percaya bahwa setiap orang punya cerita yang layak untuk dibagikan, dan melalui blog ini, saya berharap bisa menginspirasi dan mendapatkan inspirasi dari para pembaca.
 
 Terhubung dengan Saya  
