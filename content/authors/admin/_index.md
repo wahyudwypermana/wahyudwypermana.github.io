@@ -77,12 +77,18 @@ education:
     date_start: 2017-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.4/4.0
+      Averange : 80.00
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+       Courses included:
+       - Matematika
+       - Bahasa Indonesia
+       - Bahasa Inggris
+       - Ilmu Pengetahuan Alam (IPA)
+       - Ilmu Pengetahuan Sosial (IPS)
+       - Pendidikan Pancasila dan Kewarganegaraan (PPKn)
+       - Pendidikan Jasmani, Olahraga, dan Kesehatan (PJOK)
+       - Seni Budaya
+       - Prakarya dan Kewirausahaan
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
