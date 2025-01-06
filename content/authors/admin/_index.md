@@ -188,15 +188,5 @@ awards:
 ---
 
 ## About Me
-
-Halo! Selamat datang di blog pribadi saya! 👋
-Nama saya [Wahyu Dwy Permana], dan saya adalah seorang [Mahasiswa]. Blog ini adalah tempat saya berbagi cerita, pengalaman, dan inspirasi tentang [teknologi, dan yang lain nya].
-
-Saya lahir dan besar di [Kendal], dan saat ini menetap di [kendal]. Sejak kecil, saya selalu tertarik dengan [teknologi]. Kecintaan ini akhirnya membawa saya untuk menciptakan blog ini sebagai wadah menyalurkan ide dan kreativitas.
-
-Saya percaya bahwa setiap orang punya cerita yang layak untuk dibagikan, dan melalui blog ini, saya berharap bisa menginspirasi dan mendapatkan inspirasi dari para pembaca.
-
-Terhubung dengan Saya  
-Jika Anda ingin berdiskusi atau sekadar menyapa, jangan ragu untuk menghubungi saya melalui [wahyudwypermana5@gmail.com]
-
-Terima kasih sudah mampir ke blog saya. Semoga Anda menemukan sesuatu yang bermanfaat dan menginspirasi di sini. 😊
+Nama saya Wahyu Dwy Permana dan saya adalah seorang Mahasiswa. Saya lahir dan besar di Kendal, dan saat ini menetap di Kendal. Sejak kecil, saya selalu tertarik dengan teknologi. Kecintaan ini akhirnya membawa saya untuk menciptakan blog ini sebagai wadah menyalurkan ide dan kreativitas. Saya percaya bahwa setiap orang punya cerita yang layak untuk dibagikan, dan melalui blog ini, saya berharap bisa menginspirasi dan mendapatkan inspirasi dari para pembaca.
+Terhubung dengan Saya Jika Anda ingin berdiskusi atau sekadar menyapa, jangan ragu untuk menghubungi saya melalui wahyudwypermana5@gmail.com Terima kasih sudah mampir ke blog saya.
