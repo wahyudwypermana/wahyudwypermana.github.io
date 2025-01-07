@@ -53,7 +53,10 @@ education:
     date_start: 2023-10-01
     date_end: ""
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Courses included:
+      - Algoritma dan struktur data, menggunakan bahasa pemograman C++ & C
+      - Desain UI/UX, menggunakan tool figma
+      - Perancangan Basis Data, menggunakan MySQL woorkbench
     button:
       text: "Read Thesis"
       url: "https://example.com"
@@ -65,9 +68,10 @@ education:
       GPA: 3.8/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Teknisi Jaringan
+      - Instalasi Linux
+      - Instalasi Dan konfigurasi VPN Server
+      -
   - area: ""
     institution: SMP N 4 Singorojo
     date_start: 2017-01-01
