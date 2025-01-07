@@ -189,4 +189,4 @@ awards:
 
 ## About Me
 
-Nama saya Wahyu Dwy Permana dan saya adalah seorang Mahasiswa. Saya lahir dan besar di Kendal, dan saat ini menetap di Kendal. Sejak kecil, saya selalu tertarik dengan teknologi. Kecintaan ini akhirnya membawa saya untuk menciptakan blog ini sebagai wadah menyalurkan ide dan kreativitas. Saya percaya bahwa setiap orang punya cerita yang layak untuk dibagikan, dan melalui blog ini, saya berharap bisa menginspirasi dan mendapatkan inspirasi dari para pembaca.Jika Anda ingin berdiskusi atau sekadar menyapa, jangan ragu untuk menghubungi saya melalui wahyudwypermana5@gmail.com Terima kasih sudah mampir ke blog saya.
+Nama saya Wahyu Dwy Permana dan saya adalah seorang Mahasiswa. Saya lahir dan besar di Kendal, dan saat ini menetap di Kendal. Sejak kecil, saya selalu tertarik dengan teknologi. Kecintaan ini akhirnya membawa saya untuk menciptakan blog ini sebagai wadah menyalurkan ide dan kreativitas.Jika Anda ingin berdiskusi atau sekadar menyapa, jangan ragu untuk menghubungi saya melalui wahyudwypermana5@gmail.com Terima kasih sudah mampir ke blog saya.
