@@ -40,11 +40,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/wahyudwypermana
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/wahyu-dwy-permana-a7a333342?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 interests:
   - Artificial Intelligence
@@ -189,4 +185,4 @@ awards:
 
 ## About Me
 
-Nama saya Wahyu Dwy Permana dan saya adalah seorang Mahasiswa. Saya lahir dan besar di Kendal, dan saat ini menetap di Kendal. Sejak kecil, saya selalu tertarik dengan teknologi. Kecintaan ini akhirnya membawa saya untuk menciptakan blog ini sebagai wadah menyalurkan ide dan kreativitas.Jika Anda ingin berdiskusi atau sekadar menyapa, jangan ragu untuk menghubungi saya melalui wahyudwypermana5@gmail.com Terima kasih sudah mampir ke blog saya.
+Nama saya Wahyu Dwy Permana dan saya adalah seorang Mahasiswa. Saya lahir dan besar di Kendal, dan saat ini menetap di Kendal.Jika Anda ingin berdiskusi atau sekadar menyapa, jangan ragu untuk menghubungi saya melalui wahyudwypermana5@gmail.com Terima kasih sudah mampir ke blog saya.

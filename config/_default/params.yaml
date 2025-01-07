@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: "© {year} Wahyu Dwy Permana. This work is licensed under {license}"
+    notice: "© {year} Wahyu Dwy Permana.}"
     license:
       enable: true
       allow_derivatives: false
