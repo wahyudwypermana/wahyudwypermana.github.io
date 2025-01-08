@@ -90,30 +90,30 @@ education:
        - Seni Budaya
        - Prakarya dan Kewirausahaan
 work:
-  - position: Loket Parkir
-    company_name: Setia Bersama
+  - position: "Loket Parkir"
+    company_name: "Setia Bersama"
     company_url: ""
     company_logo: ""
     date_start: 2022-01-01
     date_end: 2023-01-01
-    summary: |2-
+    summary: |
       Responsibilities include:
       - Mengelola Sistem CCTV 
       - Menjaga Loket parkir 
       - Memperbaiki Mesin Gerbang Parkir
 
-    - position: Teknisi
-    company_name: Media Komunika
+    - position: "Teknisi"
+    company_name: "Media Komunika"
     company_url: ""
     company_logo: ""
     date_start: 2020-01-01
     date_end: 2022-01-01
-    summary: |2-
+    summary: |
       Responsibilities include:
       - Memperbaiki Hardware Laptop, Komputer,Hp
       - Memperbaiki Sofware Laptop, Komputer, Hp
       - Memperbaiki Printer
-      - 
+      
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
