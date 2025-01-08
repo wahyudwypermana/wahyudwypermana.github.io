@@ -98,11 +98,11 @@ work:
     date_end: 2023-01-01
     summary: |
       Responsibilities include:
-      - Mengelola Sistem CCTV 
-      - Menjaga Loket parkir 
+      - Mengelola Sistem CCTV
+      - Menjaga Loket parkir
       - Memperbaiki Mesin Gerbang Parkir
 
-    - position: "Teknisi"
+  - position: "Teknisi"
     company_name: "Media Komunika"
     company_url: ""
     company_logo: ""
@@ -110,10 +110,9 @@ work:
     date_end: 2022-01-01
     summary: |
       Responsibilities include:
-      - Memperbaiki Hardware Laptop, Komputer,Hp
-      - Memperbaiki Sofware Laptop, Komputer, Hp
+      - Memperbaiki Hardware Laptop, Komputer, Hp
+      - Memperbaiki Software Laptop, Komputer, Hp
       - Memperbaiki Printer
-      
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
