@@ -147,7 +147,7 @@ skills:
       - name: Photography
         description: ""
         percent: 80
-        icon: game
+        icon: camera
 
 languages:
   - name: Indonesia
