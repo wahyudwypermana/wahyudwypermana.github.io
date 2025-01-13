@@ -1,7 +1,7 @@
 ---
-title: PyTorch
+title: Visualisasi Data
 date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+external_link: https://wahyudwypermana.github.io/DataViz_ggplot/
 tags:
   - Hugo
   - Wowchemy
