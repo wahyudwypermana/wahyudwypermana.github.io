@@ -47,7 +47,7 @@ interests:
   - Computational Linguistics
   - Information Retrieval
 
-education:
+Pendidikan:
   - area: Rekayasa Perangkat Lunak
     institution: Itesa Muhammadiyah Semarang
     date_start: 2023-10-01
@@ -71,13 +71,15 @@ education:
       - Teknisi Jaringan
       - Instalasi Linux
       - Instalasi Dan konfigurasi VPN Server
+      - Instalasi Wi-Fi
       -
   - area: ""
     institution: SMP N 4 Singorojo
     date_start: 2017-01-01
     date_end: 2020-12-31
     summary: |
-      Averange : 80.00
+
+      Rata-rata:80.00
 
        Courses included:
        - Matematika
@@ -148,13 +150,13 @@ skills:
         percent: 80
         icon: camera
 
-languages:
+Bahasa:
   - name: Indonesia
     percent: 100
   - name: Malay
     percent: 75
   - name: Japanese
-    percent: 25
+    percent: 10
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -188,6 +190,6 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## Tentang Saya
 
-Nama saya Wahyu Dwy Permana dan saya adalah seorang Mahasiswa. Saya lahir dan besar di Kendal, dan saat ini menetap di Kendal.Jika Anda ingin berdiskusi atau sekadar menyapa, jangan ragu untuk menghubungi saya melalui wahyudwypermana5@gmail.com Terima kasih sudah mampir ke blog saya.
+Nama saya Wahyu Dwy Permana dan saya adalah seorang Mahasiswa. Saya lahir dan besar di Kendal, dan saat ini menetap di Kendal.Jika Anda ingin berdiskusi atau sekadar menyapa, jangan ragu untuk menghubungi saya melalui Terima kasih sudah mampir ke blog saya.
