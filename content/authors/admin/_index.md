@@ -78,8 +78,7 @@ Pendidikan:
     date_start: 2017-01-01
     date_end: 2020-12-31
     summary: |
-
-      Rata-rata:80.00
+      Rata-Rata : 80.00
 
        Courses included:
        - Matematika
@@ -150,13 +149,13 @@ skills:
         percent: 80
         icon: camera
 
-Bahasa:
+languages:
   - name: Indonesia
     percent: 100
   - name: Malay
     percent: 75
   - name: Japanese
-    percent: 10
+    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -192,4 +191,4 @@ awards:
 
 ## Tentang Saya
 
-Nama saya Wahyu Dwy Permana dan saya adalah seorang Mahasiswa. Saya lahir dan besar di Kendal, dan saat ini menetap di Kendal.Jika Anda ingin berdiskusi atau sekadar menyapa, jangan ragu untuk menghubungi saya melalui Terima kasih sudah mampir ke blog saya.
+Nama saya Wahyu Dwy Permana dan saya adalah seorang Mahasiswa. Saya lahir dan besar di Kendal, dan saat ini menetap di Kendal.Jika Anda ingin berdiskusi atau sekadar menyapa, jangan ragu untuk menghubungi saya melalui wahyudwypermana5@gmail.com Terima kasih sudah mampir ke blog saya.
