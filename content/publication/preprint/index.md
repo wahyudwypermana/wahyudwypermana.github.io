@@ -17,30 +17,8 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-Latar Belakang: Di dunia yang sudah modern ini kita manusia tidak bisa lepas dari perkembangan 
-teknologi yang ada. Berbagai temuan telah diciptakan dan dipublikasikan, dan banyak hal, 
-cara, prosedur lama yang hilang karena telah dipecahkan oleh temuan baru. Manusia yang 
-enggan dalam mengikuti perkembangan jaman terutama disekitar kota-kota besar tentu akan 
-kesulitan dalam menjalankan berbagai aktivitas, pekerjaan, dan bahkan dalam melakukan 
-hobi atau kesenangannya karena adanya perubahan oleh kemajuan jaman.
-Salah satu contoh perkembangan teknologi yang ada sekarang dan sudah menjadi 
-kebutuhan wajib bagi sebagian besar orang yaitu internet. Dengan adanya internet berbagai 
-kesulitan yang dialami oleh manusia dapat diatasi dengan lebih mudah, seperti mencari 
-informasi, mengirim pesan, hingga belanja secara online tanpa harus pergi kesana kemari, 
-dan masih banyak lagi perubahan baik yang dibawa oleh perkembangan teknologi yang 
-bernama internet ini.
- Lalu, bagaimana intenet bisa begitu banyak memiliki informasi, fitur, layanan dan hal￾hal lainnya? Tentu ada pihak yang mengisi, membuat dan mengembangkan berbagai hal 
-yang dimiliki oleh internet. Informasi, content, fitur, layanan dan banyak hal yang diciptakan 
-oleh pihak dibelakang semua ini agar dapat memudahkan manusia dalam melakukan segala 
-aktivitas yang dibutuhkan.
-Semua orang bisa menjadi pembuat atau penyaji konten, layanan dan lain-lainnya asalkan 
-memiliki ide kreatif ataupun suatu inovasi yang bermanfaat. Dalam penyajian yang ada di 
-internet tentu memerlukan pengetahuan agar bisa terpublikasi, tersampaikan ataupun dapat 
-digunakan oleh orang banyak. Dalam hal ini tentu saja perlu pengelolaan, manajemen, 
-pengaturan atau semacamnya agar dapat dipublikasikan dengan baik, tepat dan benar. 
-Pada praktik kali ini akan mempelajari salah satu software control panel yaitu EHCP 
-yang dapat menjaga server hosting berbasis web. Kita akan mempelajari bagaimana 
-melakukan instalasi dan konfigurasi EHCP.
+Latar Belakang: Apa yang Dimaksud dengan Control Panel Hosting?
+Control Panel Hosting merupakan alat yang memungkinkan pengguna untuk mengelola server dan layanan yang dihosting. Anda dapat menggunakan Control Panel Hosting sebagai alat untuk menangani elemen apa pun dari layanan hosting.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
