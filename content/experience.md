@@ -1,5 +1,5 @@
 ---
-title: "Pengalaman"
+title: "Experience"
 date: 2023-10-24
 type: landing
 
@@ -10,7 +10,7 @@ design:
 
 # Page sections
 sections:
-  - block: resume-Pengalaman
+  - block: resume-experience
     content:
       username: admin
     design:
@@ -28,8 +28,8 @@ sections:
     content:
       title: Awards
       username: admin
-  - block: resume-Bahasa
+  - block: resume-languages
     content:
-      title: Bahasa
+      title: Languages
       username: admin
 ---
