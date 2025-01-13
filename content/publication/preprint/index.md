@@ -1,7 +1,7 @@
 ---
-title: "Control Panel Hosting"
+title: "Control"
 authors:
-- admin
+  - admin
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
@@ -17,32 +17,32 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-Latar Belakang: Apa yang Dimaksud dengan Control Panel Hosting?
-Control Panel Hosting merupakan alat yang memungkinkan pengguna untuk mengelola server dan layanan yang dihosting. Anda dapat menggunakan Control Panel Hosting sebagai alat untuk menangani elemen apa pun dari layanan hosting.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Large Language Models
+  - Large Language Models
 
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
+  - name: Custom Link
+    url: http://example.org
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+url_code: "https://github.com/HugoBlox/hugo-blox-builder"
+url_dataset: "#"
+url_poster: "#"
+url_project: ""
+url_slides: ""
+url_source: "#"
+url_video: "#"
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)"
   focal_point: ""
   preview_only: false
 
@@ -52,7 +52,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+  - internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
