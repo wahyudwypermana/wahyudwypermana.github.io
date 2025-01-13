@@ -70,6 +70,9 @@ education:
       - Instalasi Linux
       - Instalasi Dan konfigurasi VPN Server
       - Instalasi Wi-Fi
+      - Instalasi Dan Konfigurasi Control Panel Hosting EASY HOSTING CONTROL PANEL (EHCP)
+      - Setup Domain Server
+      -
   - area: ""
     institution: SMP N 4 Singorojo
     date_start: 2017-01-01
@@ -144,7 +147,7 @@ skills:
       - name: Photography
         description: ""
         percent: 80
-        icon: camera
+        icon: game
 
 languages:
   - name: Indonesia
