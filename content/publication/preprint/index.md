@@ -19,7 +19,6 @@ publication_short: ""
 
 Latar Belakang: Apa yang Dimaksud dengan Control Panel Hosting?
 Control Panel Hosting merupakan alat yang memungkinkan pengguna untuk mengelola server dan layanan yang dihosting. Anda dapat menggunakan Control Panel Hosting sebagai alat untuk menangani elemen apa pun dari layanan hosting.
-
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
