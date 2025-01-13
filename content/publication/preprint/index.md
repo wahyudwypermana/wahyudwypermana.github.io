@@ -1,5 +1,5 @@
 ---
-title: "An example preprint / working paper"
+title: "Control Panel Hosting"
 authors:
 - admin
 date: "2019-04-07T00:00:00Z"
@@ -17,7 +17,30 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Latar Belakang: Di dunia yang sudah modern ini kita manusia tidak bisa lepas dari perkembangan 
+teknologi yang ada. Berbagai temuan telah diciptakan dan dipublikasikan, dan banyak hal, 
+cara, prosedur lama yang hilang karena telah dipecahkan oleh temuan baru. Manusia yang 
+enggan dalam mengikuti perkembangan jaman terutama disekitar kota-kota besar tentu akan 
+kesulitan dalam menjalankan berbagai aktivitas, pekerjaan, dan bahkan dalam melakukan 
+hobi atau kesenangannya karena adanya perubahan oleh kemajuan jaman.
+Salah satu contoh perkembangan teknologi yang ada sekarang dan sudah menjadi 
+kebutuhan wajib bagi sebagian besar orang yaitu internet. Dengan adanya internet berbagai 
+kesulitan yang dialami oleh manusia dapat diatasi dengan lebih mudah, seperti mencari 
+informasi, mengirim pesan, hingga belanja secara online tanpa harus pergi kesana kemari, 
+dan masih banyak lagi perubahan baik yang dibawa oleh perkembangan teknologi yang 
+bernama internet ini.
+ Lalu, bagaimana intenet bisa begitu banyak memiliki informasi, fitur, layanan dan hal￾hal lainnya? Tentu ada pihak yang mengisi, membuat dan mengembangkan berbagai hal 
+yang dimiliki oleh internet. Informasi, content, fitur, layanan dan banyak hal yang diciptakan 
+oleh pihak dibelakang semua ini agar dapat memudahkan manusia dalam melakukan segala 
+aktivitas yang dibutuhkan.
+Semua orang bisa menjadi pembuat atau penyaji konten, layanan dan lain-lainnya asalkan 
+memiliki ide kreatif ataupun suatu inovasi yang bermanfaat. Dalam penyajian yang ada di 
+internet tentu memerlukan pengetahuan agar bisa terpublikasi, tersampaikan ataupun dapat 
+digunakan oleh orang banyak. Dalam hal ini tentu saja perlu pengelolaan, manajemen, 
+pengaturan atau semacamnya agar dapat dipublikasikan dengan baik, tepat dan benar. 
+Pada praktik kali ini akan mempelajari salah satu software control panel yaitu EHCP 
+yang dapat menjaga server hosting berbasis web. Kita akan mempelajari bagaimana 
+melakukan instalasi dan konfigurasi EHCP.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -65,7 +88,7 @@ slides: example
 This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
 {{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
+Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
