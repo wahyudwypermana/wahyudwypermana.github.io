@@ -164,10 +164,10 @@ languages:
 awards:
   - title: "Konfigurasi Perangkat Jaringan Komputer"
     url: https://bnsp.go.id/
-    certificate_url: https://bnsp.go.id
+    certificate_url: https://www.datacamp.com
     date: "2023-01-21"
-    awarder: BNSP
-    icon: BNSP
+    awarder: datacamp
+    icon: datacamp
     summary: |
       Konfigurasi perangkat jaringan komputer adalah pengaturan yang dilakukan agar komputer dapat terhubung satu sama lain. Konfigurasi jaringan komputer juga melibatkan pengaturan kebijakan, alur, dan kontrol jaringan.
 ---
