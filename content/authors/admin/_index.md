@@ -162,8 +162,8 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: "Object-Oriented Programming in R"
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+  - title: "Konfigurasi Perangkat Jaringan Komputer"
+    url: https://bnsp.go.id/
     certificate_url: https://www.datacamp.com
     date: "2023-01-21"
     awarder: datacamp
