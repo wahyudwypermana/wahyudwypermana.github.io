@@ -8,6 +8,6 @@ tags:
   - Markdown
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+To do list adalah aplikasi daftar tugas atau kegiatan yang harus diselesaikan dalam waktu tertentu. To do list dapat dibuat untuk berbagai keperluan, seperti untuk mengatur jadwal harian, mingguan, atau bulanan
 
 <!--more-->
