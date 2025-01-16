@@ -7,7 +7,7 @@ name_pronunciation:
 
 # Full name (for SEO)
 first_name: Wahyu Dwy
-last_name: Permana
+last_name: Perman
 
 # Status emoji
 status:
