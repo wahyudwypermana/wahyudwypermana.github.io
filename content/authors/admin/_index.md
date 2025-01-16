@@ -47,7 +47,7 @@ interests:
   - Network Engineering
   - Cyber Security
 
-- education:
+education:
   - area: Rekayasa Perangkat Lunak
     institution: Itesa Muhammadiyah Semarang
     date_start: 2023-10-01
