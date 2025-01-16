@@ -44,6 +44,13 @@ featured: true
 #   url: http://example.org
 
 url_pdf: "https://drive.google.com/file/d/1_1hjRXJItLS2rG941aSjVVdkiCFzVXvU/view?usp=sharing"
+url_code: ""
+url_dataset: ""
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
