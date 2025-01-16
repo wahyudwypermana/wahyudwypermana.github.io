@@ -45,7 +45,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Publikasi Unggulan
       filters:
         folders:
           - publication
@@ -55,7 +55,7 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: Recent Publications
+      title: Publikasi Unggulan
       text: ""
       filters:
         folders:
