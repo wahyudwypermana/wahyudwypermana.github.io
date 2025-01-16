@@ -6,7 +6,7 @@ title: Wahyu Dwy Permana
 name_pronunciation:
 
 # Full name (for SEO)
-first_name: Wahyu Dwy
+first_name: Wahyu Dw
 last_name: Permana
 
 # Status emoji
