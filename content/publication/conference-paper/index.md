@@ -27,7 +27,7 @@ publication_types: ["paper-conference"]
 publication: In *Hugo Blox Builder Conference*
 publication_short: In *ICW*
 
-Pendahuluan: "Dalam era digital, sistem bilangan dan logika informatika menjadi landasan utama dalam
+Pendahuluan: Dalam era digital, sistem bilangan dan logika informatika menjadi landasan utama dalam
 pengembangan teknologi komputer dan sistem informasi. Komputer memproses data dalam
 bentuk angka dan logika untuk menyelesaikan berbagai tugas. Oleh karena itu, memahami
 konsep sistem bilangan dan logika informatika sangat penting bagi siapa saja yang ingin
@@ -41,7 +41,7 @@ komputer.
 Modul ini dirancang untuk memberikan pemahaman komprehensif tentang sistem bilangan
 dan logika informatika, mulai dari konsep dasar hingga penerapan praktisnya. Setiap bab
 disusun secara sistematis agar mudah dipahami oleh pembaca, termasuk ilustrasi, contoh soal,
-dan pembahasan untuk mendukung pembelajaran"
+dan pembahasan untuk mendukung pembelajaran
 
 # Summary. An optional shortened abstract.
 summary: Modul ini dibuat Untuk Memenuhi Tugas Organisasi dan Arsitektur Komputer
@@ -57,7 +57,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ""
+url_pdf: "https://drive.google.com/file/d/1_1hjRXJItLS2rG941aSjVVdkiCFzVXvU/view?usp=sharing"
 url_code: ""
 url_dataset: ""
 url_poster: ""
