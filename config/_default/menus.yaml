@@ -7,8 +7,8 @@ main:
   - name: Beranda
     url: /
     weight: 10
-  - name: Papers
-    url: /#papers
+  - name: Modul
+    url: /#Modul
     weight: 11
   - name: Talks
     url: /#talks

@@ -6,18 +6,17 @@ title: "MODUL SISTEM BILANGAN DAN GERBANG LOGIKA"
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
 
 # Author notes (optional)
 author_notes:
   - "Equal contribution"
   - "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
+date: "2024-12-10T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -28,10 +27,24 @@ publication_types: ["paper-conference"]
 publication: In *Hugo Blox Builder Conference*
 publication_short: In *ICW*
 
-abstract: Wahyu
+Pendahuluan: "Dalam era digital, sistem bilangan dan logika informatika menjadi landasan utama dalam
+pengembangan teknologi komputer dan sistem informasi. Komputer memproses data dalam
+bentuk angka dan logika untuk menyelesaikan berbagai tugas. Oleh karena itu, memahami
+konsep sistem bilangan dan logika informatika sangat penting bagi siapa saja yang ingin
+mendalami dunia teknologi informasi.
+• Sistem bilangan adalah cara untuk merepresentasikan angka dalam berbagai basis,
+seperti desimal, biner, oktal, dan heksadesimal, yang digunakan dalam berbagai
+aplikasi teknologi.
+• Logika informatika, di sisi lain, mengacu pada proses pengambilan keputusan logis
+yang digunakan dalam desain rangkaian digital, algoritma, dan pemrograman
+komputer.
+Modul ini dirancang untuk memberikan pemahaman komprehensif tentang sistem bilangan
+dan logika informatika, mulai dari konsep dasar hingga penerapan praktisnya. Setiap bab
+disusun secara sistematis agar mudah dipahami oleh pembaca, termasuk ilustrasi, contoh soal,
+dan pembahasan untuk mendukung pembelajaran"
 
 # Summary. An optional shortened abstract.
-summary: Modul
+summary: Modul ini dibuat Untuk Memenuhi Tugas Organisasi dan Arsitektur Komputer
 
 tags:
   - Large Language Models
@@ -45,13 +58,13 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ""
-url_code: "https://github.com/HugoBlox/hugo-blox-builder"
-url_dataset: "https://github.com/HugoBlox/hugo-blox-builder"
+url_code: ""
+url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://github.com/HugoBlox/hugo-blox-builder"
-url_video: "https://youtube.com"
+url_source: ""
+url_video: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
