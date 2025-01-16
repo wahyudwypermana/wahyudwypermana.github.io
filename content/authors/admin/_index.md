@@ -99,7 +99,7 @@ work:
     date_end: 2023-01-01
     summary: |
       Responsibilities include:
-      - Mengelola Sistem CCT
+      - Mengelola Sistem CCTV
       - Menjaga Loket parkir
       - Memperbaiki Mesin Gerbang Parkir
 
