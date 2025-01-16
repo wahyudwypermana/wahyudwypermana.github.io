@@ -48,11 +48,10 @@ jobs:
           hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: List files in public directory
         run: ls -la ./public # Debugging step to check the contents of the public directory
-      - name: Generate Pagefind search index
-        run: npx pagefind --site "public"
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-artifact@v3 # Menggunakan versi v3
         with:
+          name: my-artifact # Nama artifact yang di-upload
           path: ./public
 
   deploy:
