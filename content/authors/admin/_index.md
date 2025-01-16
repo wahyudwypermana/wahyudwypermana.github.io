@@ -45,7 +45,7 @@ profiles:
 interests:
   - Artificial Intelligence
   - Network Engineering
-  - Cyber Security
+  - Cyber Securit
 
 education:
   - area: Rekayasa Perangkat Lunak
