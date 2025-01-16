@@ -24,8 +24,8 @@ role: Mahasiswa
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Dicoding
-    url: https://www.dicoding.com/
+  - name: ""
+    url: ""
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -44,8 +44,8 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Network Engineering
+  - Cyber Security
 
 education:
   - area: Rekayasa Perangkat Lunak
