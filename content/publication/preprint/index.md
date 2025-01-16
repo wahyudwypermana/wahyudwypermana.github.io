@@ -28,8 +28,7 @@ tags:
 featured: true
 
 links:
-  - name: Custom Link
-url_pdf: "https://drive.google.com/file/d/1_1hjRXJItLS2rG941aSjVVdkiCFzVXvU/view?usp=sharing"
+  url_pdf: "https://drive.google.com/file/d/1_1hjRXJItLS2rG941aSjVVdkiCFzVXvU/view?usp=sharing"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
