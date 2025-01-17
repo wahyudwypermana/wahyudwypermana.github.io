@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Project Kuliah
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: Kumpulan Project Selama Kuliah
       filters:
         folders:
           - project
