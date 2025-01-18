@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: "📚 My Research"
+      title: "📚 Protofolio Saya"
       subtitle: ""
       text: |-
         Selamat datang di portofolio saya! Saya adalah mahasiswa Rekayasa Perangkat Lunak di ITESA Muhammadiyah Saya memiliki minat mendalam dalam bidang Artificial Intelligence, Network Engineering, dan Cyber Security.  
