@@ -35,11 +35,9 @@ sections:
       title: "📚 My Research"
       subtitle: ""
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        Selamat datang di portofolio saya! Saya adalah mahasiswa Rekayasa Perangkat Lunak di ITESA Muhammadiyah Saya memiliki minat mendalam dalam bidang Artificial Intelligence, Network Engineering, dan Cyber Security.  
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
+        Saya senang mendalami berbagai teknologi baru, mengeksplorasi konsep-konsep inovatif, dan terus belajar untuk memperluas pemahaman saya di bidang ini. Jangan ragu untuk menghubungi saya jika ingin berdiskusi atau berbagi wawasan! 😊
     design:
       columns: "1"
   - block: collection
