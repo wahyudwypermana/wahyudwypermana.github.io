@@ -1,12 +1,12 @@
 ---
-title: Cirkuler
-summary: SIRKULAR LIST ATAU CIRCULAR LINKED LIST
-date: 2024-06-06
+title: 🎉 Easily create your own simple yet highly customizable blog
+summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
+date: 2023-10-27
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: "https://whypratamaa.blogspot.com/"
+  caption: "Image credit: [**Unsplash**](https://unsplash.com)"
 
 authors:
   - admin
@@ -18,11 +18,5 @@ tags:
   - Markdown
 ---
 
-Sirkular list (atau circular linked list) adalah tipe struktur data yang mirip dengan linked list, tetapi dengan perbedaan bahwa elemen terakhir mengarah kembali ke elemen pertama, membentuk sebuah lingkaran. Ini berarti tidak ada elemen yang menunjukkan null, dan traversal dapat dimulai dari mana saja di list dan berakhir di titik yang sama.
-materi tentang sirkular list dalam bahasa pemrograman:
-
-1. Pengertian Sirkular List
-2. Struktur Data Sirkular List
-3. Operasi Dasar pada Sirkular List
-4. Kelebihan dan Kekurangan Sirkular List
-5. Aplikasi Sirkular List
+Welcome 👋
+{{< toc mobile_only=true is_open=true >}} gatau
