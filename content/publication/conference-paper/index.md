@@ -25,7 +25,7 @@ publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication_short: ""
 
 Pendahuluan: Dalam era digital, sistem bilangan dan logika informatika menjadi landasan utama dalam pengembangan teknologi komputer dan sistem informasi. Komputer memproses data dalam bentuk angka dan logika untuk menyelesaikan berbagai tugas. Oleh karena itu, memahami konsep sistem bilangan dan logika informatika sangat penting bagi siapa saja yang ingin mendalami dunia teknologi informasi. Sistem bilangan adalah cara untuk merepresentasikan angka dalam berbagai basis, seperti desimal, biner, oktal dan heksadesimal, yang digunakan dalam berbagai aplikasi teknologi. Logika informatika, di sisi lain mengacu pada proses pengambilan keputusan logis yang digunakan dalam desain rangkaian digital algoritma, dan pemrograman komputer. Modul ini dirancang untuk memberikan pemahaman komprehensif tentang sistem bilangan dan logika informatika, mulai dari konsep dasar hingga penerapan praktisnya. Setiap bab disusun secara sistematis agar mudah dipahami oleh pembaca, termasuk ilustrasi, contoh soal, dan pembahasan untuk mendukung pembelajaran
 
