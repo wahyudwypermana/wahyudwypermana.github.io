@@ -10,7 +10,7 @@ main:
   - name: Modul
     url: /#papers
     weight: 11
-  - name: Talks
+  - name: ""
     url: /#talks
     weight: 12
   - name: Blog
