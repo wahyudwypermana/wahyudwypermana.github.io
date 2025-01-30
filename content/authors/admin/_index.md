@@ -143,7 +143,7 @@ skills:
       - name: Gaming
         description: ""
         percent: 100
-        icon: ""
+        icon:
       - name: Photography
         description: ""
         percent: 80
