@@ -136,14 +136,14 @@ skills:
     color: "#eeac02"
     color_border: "#f0bf23"
     items:
-      - name: Hiking
+      - name: FutsalSS
         description: ""
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Gaming
         description: ""
         percent: 100
-        icon: cat
+        icon: ""
       - name: Photography
         description: ""
         percent: 80
@@ -165,7 +165,7 @@ awards:
   - title: "Konfigurasi Perangkat Jaringan Komputer"
     url: https://bnsp.go.id/
     certificate_url: https://drive.google.com/file/d/1AePx-24XMPl-GS3WdcmAGAH2Wdjjj1yt/view?usp=drivesdk
-    date: "2023-01-21"
+    date: "2023-04-26"
     awarder:
     icon:
     summary: |

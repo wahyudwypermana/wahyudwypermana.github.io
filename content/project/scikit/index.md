@@ -8,6 +8,8 @@ tags:
   - Markdown
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+Aplikasi Vape Store adalah sebuah aplikasi yang dirancang untuk mempermudah pelanggan dalam mencari, membeli, dan mendapatkan informasi seputar produk vape, seperti liquid, device, coil, dan aksesoris lainnya.  
+Aplikasi ini biasanya memiliki fitur seperti katalog produk lengkap, deskripsi detail, ulasan pengguna, metode pembayaran yang beragam, serta layanan pengiriman. Beberapa aplikasi juga menyediakan fitur membership, promo khusus, dan panduan penggunaan bagi pengguna baru.  
+Dengan adanya aplikasi ini, pelanggan dapat dengan mudah menemukan produk yang sesuai dengan preferensi mereka tanpa harus datang langsung ke toko fisik.
 
 <!--more-->
