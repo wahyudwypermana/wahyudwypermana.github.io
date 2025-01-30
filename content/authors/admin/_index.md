@@ -164,7 +164,7 @@ languages:
 awards:
   - title: "Konfigurasi Perangkat Jaringan Komputer"
     url: https://bnsp.go.id/
-    certificate_url:
+    certificate_url: https://drive.google.com/file/d/1AePx-24XMPl-GS3WdcmAGAH2Wdjjj1yt/view?usp=drivesdk
     date: "2023-01-21"
     awarder:
     icon:
