@@ -1,6 +1,6 @@
 ---
 title: Visualisasi Data
-date: 2023-10-26
+date: 2024-12-22
 external_link: https://wahyudwypermana.github.io/DataViz_ggplot/
 tags:
 ---
