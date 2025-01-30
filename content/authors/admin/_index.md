@@ -63,7 +63,7 @@ education:
     date_start: 2020-01-01
     date_end: 2023-05-01
     summary: |
-      GPA: 3.8/4.0
+      Rata-Rata: 83,0
 
       Courses included:
       - Teknisi Jaringan
