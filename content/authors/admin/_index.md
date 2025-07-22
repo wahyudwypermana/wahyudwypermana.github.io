@@ -43,7 +43,7 @@ profiles:
     url: https://www.linkedin.com/in/wahyu-dwy-permana-a7a333342?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 interests:
-  - UI,UX
+  - UI/UX
   - Network Engineering
   - Artificial Intelligence
 
