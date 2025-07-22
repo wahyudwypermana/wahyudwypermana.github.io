@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: https://drive.google.com/file/d/1fcTnKDbBujAmM9tyisxw08jXsNPvftsn/view?usp=sharing
+        url: https://drive.google.com/file/d/1QT4edPzcMrJboijQQ0qpxBVhz5WU6B63/view?usp=drive_link
     design:
       css_class: dark
       background:
@@ -35,7 +35,7 @@ sections:
       title: "📚 Protofolio"
       subtitle: ""
       text: |-
-        Selamat datang di portofolio saya! Saya adalah mahasiswa Rekayasa Perangkat Lunak di ITESA Muhammadiyah Saya memiliki minat mendalam dalam bidang Artificial Intelligence, Network Engineering, dan Cyber Security.  
+        Selamat datang di portofolio saya! Saya adalah mahasiswa Rekayasa Perangkat Lunak di ITESA Muhammadiyah Saya memiliki minat mendalam dalam bidang UI/UX, Network Engineering, dan Artificial Intelligence.  
 
         Saya senang mendalami berbagai teknologi baru, mengeksplorasi konsep-konsep inovatif, dan terus belajar untuk memperluas pemahaman saya di bidang ini. Jangan ragu untuk menghubungi saya jika ingin berdiskusi atau berbagi wawasan! 😊
     design:
